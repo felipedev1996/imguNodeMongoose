@@ -7,7 +7,6 @@ const multer = require('multer');
 const express = require('express');
 
 const routes = require('../routes/index.js');
-const errorhandler = require('errorhandler');
 const errorHandler = require('errorhandler');
 
 

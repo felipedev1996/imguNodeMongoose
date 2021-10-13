@@ -10,5 +10,3 @@
 2. debes tener instalado Mongodb 
 3. comando ``npm run dev `` para iniciar servidor y base de datos 
 
-
-fgdfg
