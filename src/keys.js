@@ -2,7 +2,7 @@ module.exports  = {
 
 
     database:{
-    URI: 'mongodb://localhost/imgshare2'
+    URI: 'mongodb://127.0.0.1/test'
 
 }
 }
