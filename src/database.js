@@ -5,5 +5,5 @@ const {database}  = require('./keys');
 
 
 mongoose.connect(database.URI)
-    .then(db => console.log('DB is connected'))
+    .then(db => console.log('DB is connected successfull'))
     .catch(err => console.error(err))
